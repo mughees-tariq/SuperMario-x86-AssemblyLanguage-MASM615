@@ -15,18 +15,39 @@ Experience the classic platforming adventure rebuilt from the ground up in pure 
 
 ## 🖼️ Screenshots
 
+### Title Screen
 <p align="center">
-  <img src="Screenshots/title_screen.png" alt="Title Screen" width="45%">
-  <img src="screenshots/scene1.png" alt="World 1-1 Gameplay" width="45%">
-  <br>
-  <em>The title screen and World 1-1 gameplay with the rain weather system.</em>
+  <img src="Screenshots/title_screen.png"/>
 </p>
 
+### Won Screen
 <p align="center">
-  <img src="screenshots/secretArea.png" alt="Secret Star Room" width="45%">
-  <img src="screenshots/scene3.png" alt="Boss Fight" width="45%">
-  <br>
-  <em>The hidden Star Room and the final battle against Bowser.</em>
+  <img src="Screenshots/won_screen.png"/>
+</p>
+
+### Lost Screen
+<p align="center">
+  <img src="Screenshots/lost_screen.png"/>
+</p>
+
+### World 1
+<p align="center">
+  <img src="Screenshots/scene1.png"/>
+</p>
+
+### World 2
+<p align="center">
+  <img src="Screenshots/scene2.png"/>
+</p>
+
+### World 3
+<p align="center">
+  <img src="Screenshots/scene3.png"/>
+</p>
+
+### Secret Area
+<p align="center">
+  <img src="Screenshots/secretArea.png"/>
 </p>
 
 ---
